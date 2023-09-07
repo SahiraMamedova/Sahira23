@@ -1,5 +1,4 @@
 <!-- [![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)](https://rishavchanda.io) -->
-<img height="370px" width="100%" src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif">
 <h1 align="center">Hi 👋, I'm Sahira Mammadova</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan.</h3>
 
